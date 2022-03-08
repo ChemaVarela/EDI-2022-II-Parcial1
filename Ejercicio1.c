@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int mai()
+int mein()
 {
 
     float precio, descuento, total;

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-int main()
+int mn()
 {
 
     int dias, horas, minutos, segundos;

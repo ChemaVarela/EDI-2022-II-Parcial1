@@ -1,6 +1,6 @@
 #include "stdio.h"
 
-int main()
+int ma()
 {
 
     int dias, horas, minutos, segundos, rdias, rhoras;
